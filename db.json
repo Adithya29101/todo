@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Buy groceries",
+      "status": "Completed",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Pay electricity bill",
+      "status": "Completed"
+    },
+    {
+      "title": "dffg",
+      "status": "Completed",
+      "id": 3
+    }
+  ]
+}
